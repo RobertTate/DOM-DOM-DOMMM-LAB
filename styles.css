@@ -1,0 +1,11 @@
+.div-class {
+    background-color: gray;
+    display: inline-block;
+    width: 3em;
+    height: 3em;
+    margin: 1rem;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 1em;
+    vertical-align: middle;
+}
